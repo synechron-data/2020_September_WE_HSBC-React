@@ -1,0 +1,18 @@
+Library
+
+Set of API's to target a specific type of Job in an application
+
+jQuery - DOM Manipulation & AJAX
+axios - AJAX
+moment - Date and Time
+d3js - Data Visualization
+sammy - Routing
+
+Frameworks
+
+Set of API's to create an application
+Rules for Code Structuring
+Built In Services - Dependency Injector
+
+
+React and Angular
